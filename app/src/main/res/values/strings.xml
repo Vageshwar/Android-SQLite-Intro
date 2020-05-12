@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Assignment10</string>
+    <string-array name="branches">
+        <item>CSE</item>
+        <item>IT</item>
+        <item>ELE</item>
+        <item>ETC</item>
+    </string-array>
+</resources>
